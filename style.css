@@ -14,3 +14,12 @@ img{
     width: 240px;
     height: auto;
 }
+button {
+    background-color: #FF4E50;
+    color: #FFFFFF;
+    border-color: #4773f7;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
